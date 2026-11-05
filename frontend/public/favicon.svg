@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Nearby Places Finder favicon">
+  <defs>
+    <linearGradient id="pinGradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="dotGradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#dbeafe" />
+    </linearGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="28" fill="#eff6ff"/>
+
+  <path d="M64 12C42.46 12 25 29.46 25 51c0 25.09 30.34 53.22 35.24 58.03a5 5 0 0 0 7.52 0C72.66 104.22 103 76.09 103 51 103 29.46 85.54 12 64 12zm0 27.5A21.5 21.5 0 1 1 64 82.5a21.5 21.5 0 0 1 0-43Z" fill="url(#pinGradient)"/>
+  <circle cx="64" cy="52" r="18" fill="url(#dotGradient)"/>
+  <circle cx="64" cy="52" r="7" fill="#2563eb"/>
+
+  <path d="M28 95.5c8-8.5 18.2-12.8 36-12.8s28 4.3 36 12.8" fill="none" stroke="#bfdbfe" stroke-width="6" stroke-linecap="round" opacity="0.9"/>
+</svg>
